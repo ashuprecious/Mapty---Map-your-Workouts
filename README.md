@@ -1,4 +1,7 @@
 # Mapty---Map-your-Workouts
+Note -> Use below link to view the application-
+https://ashuprecious.github.io/Mapty---Map-your-Workouts/
+
 Hy, This Application is created with HTML,Css and JavaScript with Love By Ashutosh Kumar(me..).Here you can map your workout on the real map and acces it whenever required.
 First Page-
 ![image](https://user-images.githubusercontent.com/48045926/196843876-5a6096fc-86d5-4a14-9234-3d0804cdc604.png)
